@@ -80,7 +80,7 @@ Epoch 20: 100%|██████████| 782/782 [00:23<00:00, 33.11it/s, 
 Epoch test: 100%|██████████| 157/157 [00:16<00:00,  9.30it/s, test_acc=82.5, test_loss=0.533]
 ```
 
-![image-20250821163727951](C:\Users\Jarwww\Desktop\项目\CNN\imgs\image-20250821163727951.png)
+![image-20250821163727951](./imgs/image-20250821163727951.png)
 
 
-![image-20250821163812461](C:\Users\Jarwww\Desktop\项目\CNN\imgs\image-20250821163812461.png)
+![image-20250821163812461](./imgs/image-20250821163812461.png)
